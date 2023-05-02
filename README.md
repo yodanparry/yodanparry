@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yodanparry
-- 👀 I’m interested in learning about web3
-- 🌱 I’m currently learning how to write solidity smart contracts
+- 👀 I’m interested in learning about AI
+- 🌱 I’m currently learning how to write Python and using Langchain
 - 💞️ I’m looking to collaborate on anything that can help people who can't code learn the above 😅
 - 📫 How to reach me @yodanparry on Twitter
 
